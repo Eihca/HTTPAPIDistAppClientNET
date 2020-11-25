@@ -7,7 +7,7 @@ using System.Net.Sockets;
 using System.Collections.Generic;
 using System.IO;
 
-//Combined from SimpleChat and this link that showed how to http post json in c# http://zetcode.com/csharp/httpclient/
+//Combined from SimpleChat and this link that showed how to http post json  in c# http://zetcode.com/csharp/httpclient/
 namespace HttpAPIDistAppClientNET
 {
     class HttpAPIDistAppClient
